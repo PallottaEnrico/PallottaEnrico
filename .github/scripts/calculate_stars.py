@@ -32,9 +32,9 @@ display_count = f"{total_stars/1000:.1f}k" if total_stars >= 1000 else str(total
 
 data = {
     "schemaVersion": 1,
-    "label": "Impact Stars",
+    "label": "⭐ Stars",
     "message": display_count,
-    "color": "orange",
+    "color": "FFD700",
     "style": "for-the-badge"
 }
 
