@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Just visit [my website](https://pallottaenrico.github.io/) for more info! 
+
+![Impact Stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/PallottaEnrico/PallottaEnrico/main/stars_data.json)
